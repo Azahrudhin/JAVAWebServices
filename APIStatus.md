@@ -17,12 +17,15 @@
 <b>`Development :`</b> Development is completed code is available in GitHub.
 <br><b>`Support Info     :`</b> info@ezetop.com, kelsayed@ezetop.com
 <br><b>`Testing     :`</b>Once the UAT test cases are provided by Ezetop complete testing will be performed.
-<br><b>`Issues      :`</b>
-                      Need to setup a call with ezetop team for integration process
-                      Static IP need to be finalized
-                      Credentials are Not yet shared by ezetop
-                      Transaction slip format not yet finalized.
-<br><b>`Pending     :`</b>  UAT Testing is pending.
+<br><b>`Issues      :`
+
+</b>
+                      <br><p align=left><sup>Need to setup a call with ezetop team for integration process
+                      <br>Static IP need to be finalized
+                      <br>Credentials are Not yet shared by ezetop
+                      <br>Transaction slip format not yet finalized.</sup>
+                      
+<br><b>`Pending     :`</b>  UAT Testing is pending.</p>
 </sub>
 
 <h1><pre>NepalNTC</pre></h1>
